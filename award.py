@@ -36,3 +36,4 @@ elif triat_sum > 105 and triat_sum <= 110:
 else:
     # Display message "No Award Achived"
     print("No Award Achived")
+print("End of the program")
